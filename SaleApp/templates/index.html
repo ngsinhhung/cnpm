@@ -1,0 +1,21 @@
+{% extends 'layout/base.html' %}
+{% block title %}
+	Trang chủ
+{% endblock %}
+{% block content %}
+	<div class="row" style="gap: 30px">
+        {% for p in products %}
+            <div class="card col col-md-3 col-12 ">
+                <img class="card-img-top" src="{{ p.image }}" alt="Card image">
+                <div class="card-body">
+                    <h4 class="card-title">{{ p.name }}</h4>
+                    <p class="card-text">{{ p.price }}đ</p>
+                    <div style="display: flex; justify-content: space-between">
+                        <a href="/product/{{ p.id }}" class="btn btn-primary">Xem chi tiết</a>
+                        <a href="#" class="btn btn-danger">Mua hàng</a>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+{% endblock %}

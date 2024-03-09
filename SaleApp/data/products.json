@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 15 Pro",
+    "price": "28.999.000",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone15pro-digitalmat-gallery-1-202309?wid=728&hei=666&fmt=png-alpha&.v=1693346851364",
+    "category_id": 2
+  },
+  {
+    "id": 2,
+    "name": "Iphone 15 Pro Max",
+    "price": "34.999.000",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone15promax-digitalmat-gallery-1-202309?wid=728&hei=666&fmt=png-alpha&.v=1693519216040",
+    "category_id": 2
+  },
+  {
+    "id": 3,
+    "name": "Iphone 15",
+    "price": "22.999.000",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone15-digitalmat-gallery-1-202309?wid=728&hei=666&fmt=png-alpha&.v=1693346853713",
+    "category_id": 2
+  },
+  {
+    "id": 4,
+    "name": "Iphone 15 Plus",
+    "price": "25.999.000",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone15plus-digitalmat-gallery-1-202309?wid=728&hei=666&fmt=png-alpha&.v=1693346853473",
+    "category_id": 2
+  },
+  {
+    "id": 5,
+    "name": "Iphone 14",
+    "price": "19.999.000",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone14-digitalmat-gallery-1-202303?wid=728&hei=666&fmt=png-alpha&.v=1679072735068",
+    "category_id": 2
+  },
+  {
+    "id": 6,
+    "name": "Iphone 14 Plus",
+    "price": "22.999.00",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone14plus-digitalmat-gallery-1-202303?wid=728&hei=666&fmt=png-alpha&.v=1676510300457",
+    "category_id": 2
+  }
+
+]
